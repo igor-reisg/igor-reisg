@@ -5,9 +5,3 @@
 <p align="left">• Bom dia</p>
 
 ###
-
-<h2 align="left">Languages</h2>
-
-###
-
-###
